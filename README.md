@@ -8,4 +8,4 @@
 
 ## Inference
 - Edit and make sure the path of training, testing dataset, the sample submission and the model is valid
-- The model can be downloaded [here](https://drive.google.com/file/d/12X4cx43WWIcDR1Vp6oNw4KNwrFyZRT4P/view?usp=sharing)
+- The model can be downloaded [here](https://drive.google.com/file/d/179WLiylZIiExy39h2w1ynGR1QCAS19Zy/view?usp=sharing)
