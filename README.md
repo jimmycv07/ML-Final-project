@@ -1,4 +1,5 @@
-# Machine Learning Final Project
+# Intro. to Machine Learning Final Project
+Prof. 林彥宇
 
 ## Environment 
 - It's high recommended to run on **Colab**, otherwise you will have to reconstruct the environment by requirement.txt
